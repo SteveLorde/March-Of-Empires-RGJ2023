@@ -1,2 +1,2 @@
 # March-Of-Empires-RGJ2023
-a React grand strategy game
+a React grand-Strategy/RISK game
